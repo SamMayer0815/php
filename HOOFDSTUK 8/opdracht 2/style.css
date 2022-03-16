@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Bangers);
+
+#img1{
+  padding-top: 5vh;
+  padding-left: 50vw;
+  transform: translateX(-97px);
+}
+
+#img2{
+  padding-left: 50vw;
+  transform: translateX(-400px);
+}
+
+.monkeyName{
+  padding-left: 45.5vw;
+  text-align: center;
+  font-size: 40px;
+  color: #ff8400;
+  font-family: Bangers;
+  text-decoration: none;
+}
+
+.text{
+  text-align: center;
+  font-family: arial;
+  font-size: 40px;
+  padding: 10px 0px 20px 0px;
+}
